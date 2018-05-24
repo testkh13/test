@@ -14,8 +14,14 @@ class Kaka
         if (false) {
             return 'ssss';
         }
+        $t = 'kaka2';
+        if (true) {
+            $k = $t;
+        } else {
+            $k = '';
+        }
 
-        return 'kaka2';
+        return $k;
     }
 //
 //    public function kaka3()
