@@ -1,0 +1,9 @@
+{
+  "name": "test",
+  "type": "library",
+  "description": "test",
+  "version": "master",
+  "require-dev": {
+    "phpunit/phpunit": "^7.0"
+  }
+}
