@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.org/testkh13/test.svg?branch=master&token=xqUblBX_v-EGopkDPlvtmw)](https://travis-ci.org/testkh13/test)
+[![Build Status](https://travis-ci.org/testkh13/test.svg?branch=master)](https://travis-ci.org/testkh13/test)
