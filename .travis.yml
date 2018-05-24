@@ -4,6 +4,6 @@ php:
   - 7.2
 
 script:
-  - composer update
+  - composer dump-autoload
   - phpunit
   - php coverage-checker.php clover.xml 75
