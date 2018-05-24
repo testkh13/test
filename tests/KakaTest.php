@@ -18,4 +18,9 @@ class KakaTest extends TestCase
     {
         $this->assertEquals('kaka', (new Kaka())->test());
     }
+
+    public function testKaka2()
+    {
+        $this->assertEquals('kaka2', (new Kaka())->test2());
+    }
 }

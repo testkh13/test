@@ -9,10 +9,14 @@ class Kaka
         return 'kaka';
     }
 
-//    public function kaka2()
-//    {
-//        return 'kaka2';
-//    }
+    public function kaka2()
+    {
+        if (false) {
+            return 'ssss';
+        }
+
+        return 'kaka2';
+    }
 //
 //    public function kaka3()
 //    {
