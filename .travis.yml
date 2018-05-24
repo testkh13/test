@@ -5,4 +5,5 @@ php:
 
 script:
   - phpunit
+  - composer update
   - php coverage-checker.php clover.xml 75
