@@ -17,8 +17,6 @@ class Kaka
         $t = 'kaka2';
         if (true) {
             $k = $t;
-        } else {
-            $k = '';
         }
 
         return $k;
