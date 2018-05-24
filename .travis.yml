@@ -5,7 +5,7 @@ php:
 
 script:
   - composer dump-autoload
-  - ls .
+  - ls ./
   - ll src
   - phpunit
   - php coverage-checker.php clover.xml 75
